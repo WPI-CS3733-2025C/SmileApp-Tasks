@@ -82,7 +82,7 @@ Similar to the StudentApp exercise, you will commit your code to a repository un
    
     ```
         git add README.md 
-        git commit -am "Added readme file." README.md
+        git commit -m "Added readme file." README.md
         git push origin main
     ```
 
